@@ -3,11 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=Hey+there,+I'm+Dattatray+Dhongade+%F0%9F%91%8B;Full+Stack+Software+Engineer;Nashik,+Maharashtra,+India" alt="Hey there, I'm Dattatray Dhongade">
 
 <p>
-  <i>I take an idea from an empty folder to a live link —<br>
-  the screen you see, the API behind it, and the database under that.</i>
-</p>
-
-<p>
   <a href="https://dattas-code-lab.vercel.app/" title="Portfolio"><img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="32" height="32" alt="Portfolio"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dattatray-dhongade/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"></a>
